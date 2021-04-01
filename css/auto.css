@@ -1,0 +1,88 @@
+@media (max-width: 960px) {
+  .about-block {
+    display: block;
+  }
+
+  .reviews-block {
+    display: block;
+  }
+
+  .reviews-block-people-1 {
+    width: 100%;
+  }
+
+  .about-youtube {
+    padding-right: 20px;
+  }
+
+  .reviews-block-people-2 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 615px) {
+  .button-buy-block {
+    padding-left: 90px;
+    padding-top: 70px;
+  }
+}
+
+@media (max-width: 640px) {
+  .blocks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .text-button-buy {
+    font-size: 20px;
+    padding-right: 20px;
+  }
+
+   .header-list {
+    display: inline-block;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-list {
+    display: block;
+  }
+
+  .about-youtube iframe {
+    width: 280px;
+    height: 165px;
+    padding-right: 20px;
+  }
+
+  .button-buy-block {
+    padding-top: 16px;
+    padding-left: 15px;
+  }
+
+  .img-buy {
+    width: 150px;
+    height: 178px;
+  }
+
+  .reviews-block-people-1 {
+    display: block;
+  }
+
+  .reviews-block-people-2 {
+    display: block;
+  }
+
+  .text-button-buy {
+    font-size: 18px;
+    padding-right: 20px;
+  }
+
+  .header-top {
+    display: block;
+  }
+
+  .header-logo {
+    margin-top: 0;
+  }
+}

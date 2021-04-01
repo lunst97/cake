@@ -1,0 +1,38 @@
+.buy {
+  background: #ffe4e1;
+}
+
+.buy-block{
+  display: flex;
+  justify-content: center;
+}
+
+.img-buy-block {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.button-buy-block {
+  padding-left: 200px;
+  padding-top: 90px;
+}
+
+.img-buy {
+  width: 250px;
+  height: 250px;
+}
+
+.button-buy {
+  text-decoration: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 16px;
+  padding: 15px 30px;
+  font-weight: bold;
+  background: #7b68ee;
+}
+
+.button-buy:hover {
+  background: #9b99ee;
+  transition: .5s;
+}

@@ -1,0 +1,29 @@
+.footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 80%;
+  margin: auto;
+  font-size: 12px;
+}
+
+.footer-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-info {
+
+}
+
+.footer-img {
+  padding-top: 10px;
+  height: 20px;
+}
+
+.footer-mar {
+
+}
+
+.mar-paragraphe {
+  padding-bottom: 10px;
+}

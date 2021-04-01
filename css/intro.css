@@ -1,0 +1,27 @@
+.intro {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0%, center top;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 60px;
+}
+
+.button-a{
+  text-decoration: none;
+  color: white;
+}
+
+.button-a {
+  display: inline-block;
+  border-radius: 3px;
+  font-size: 16px;
+  padding: 15px 30px;
+  font-weight: bold;
+  background: #7b68ee;
+}
+
+.button-a:hover {
+  background: #9b99ee;
+  transition: .5s;
+}

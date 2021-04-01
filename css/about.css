@@ -1,0 +1,21 @@
+.about {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.about-block {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-youtube {
+
+}
+
+.about-text {
+  flex-basis: 600px;
+  padding-left: 30px;
+}
+

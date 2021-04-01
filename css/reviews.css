@@ -1,0 +1,30 @@
+.reviews {
+  background: #f3f3f3;
+}
+
+.reviews-block {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.reviews-block-people-1 {
+  display: flex;
+  width: 50%;
+  padding-right: 10px;
+}
+
+.reviews-block-people-2 {
+  display: flex;
+  width: 50%;
+  padding-left: 10px;
+}
+
+.reviews-img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+}
